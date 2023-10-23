@@ -1,0 +1,54 @@
+[
+    {
+       "ad": "Ali Kemal",
+       "soyad": "Uysal",
+       "linkedinAdresi": "https://www.linkedin.com/in/alikemaluysal/",
+       "sinifAdi": "G064",
+       "adres":{
+            "il": "İstanbul",
+            "ilçe": "Üsküdar"
+       },
+       "alinanDersler": [
+        "C#", "OOP", "HTML"
+       ]
+    },
+    {
+        "ad": "Yağmur",
+        "soyad": "Kepcan",
+       "linkedinAdresi": "https://www.linkedin.com/in/yagmur/",
+        "sinifAdi": "G064",
+        "adres":{
+             "il": "Ankara",
+             "ilçe": "Merkez"
+        },
+        "alinanDersler": [
+         "HTML", "CSS", "JS"
+        ]
+     },
+     {
+        "ad": "Halil",
+        "soyad": "Özçakmak",
+       "linkedinAdresi": "https://www.linkedin.com/in/halil/",
+        "sinifAdi": "G064",
+        "adres":{
+             "il": "İzmir",
+             "ilçe": "Merkez"
+        },
+        "alinanDersler": [
+         "ML", "DL", "DS"
+        ]
+     },
+     {
+        "ad": "Ali Kemal",
+        "soyad": "Toker",
+       "linkedinAdresi": "https://www.linkedin.com/in/alikemaltoker/",
+        "sinifAdi": "G064",
+        "adres":{
+             "il": "İzmir",
+             "ilçe": "Merkez"
+        },
+        "alinanDersler": [
+         "AA", "BB", "CC"
+        ]
+     }
+]
